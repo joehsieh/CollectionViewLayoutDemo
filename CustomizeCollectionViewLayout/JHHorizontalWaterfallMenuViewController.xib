@@ -14,7 +14,7 @@
         <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" id="i5M-Pr-FkT">
             <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-            <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+            <color key="backgroundColor" name="gridColor" catalog="System" colorSpace="catalog"/>
             <collectionViewLayout key="collectionViewLayout" id="qY3-7F-v9T" customClass="JHHorizontalWaterfallLayout"/>
             <connections>
                 <outlet property="dataSource" destination="-1" id="Tng-2m-Rnh"/>

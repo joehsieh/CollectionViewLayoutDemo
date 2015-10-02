@@ -23,7 +23,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" name="gridColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="h4o-Hw-ida" secondAttribute="trailing" id="8au-NK-Xqg"/>
                             <constraint firstItem="h4o-Hw-ida" firstAttribute="centerY" secondItem="1Ra-MR-ynZ" secondAttribute="centerY" id="S1A-lZ-RxY"/>
