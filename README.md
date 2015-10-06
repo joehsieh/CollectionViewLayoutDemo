@@ -1,7 +1,7 @@
 # CollectionViewLayoutDemo
 
 ### What is this repository for? ###
-c
+
 It is a demo for different kinds of customized collectionViewLayout.
 
 
